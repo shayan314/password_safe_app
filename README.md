@@ -56,7 +56,7 @@ Built with Flutter, the app offers a fluid and responsive user experience. The M
 ## 📥 Download Latest Version
 Download the latest signed APK from the link below:
 
-👉 **[Download Password Safe v1.0.0 APK](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest)**
+👉 **[Download Password Safe v1.0.0 APK](https://github.com/shayan314/password_safe_app/releases/tag/v1.0.0)**
 
 ---
 
