@@ -13,9 +13,19 @@
 ## 📱 App Preview
 *(Upload your screenshots to your repo's 'assets' folder and update the paths below)*
 
-| Login Screen | Dashboard | Add Entry |
-| :---: | :---: | :---: |
-| ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/dashboard.png) | ![Add](assets/screenshots/add.png) |
+## Login Screen  | 
+
+ ![Login](assets/image1.png)
+
+## Home 
+ ![Home](assets/image2.png) 
+
+## Add Password 
+  ![Add](assets/image3.png) 
+
+## Search Password
+  ![Add](assets/image.png) 
+  
 
 ---
 
